@@ -1,4 +1,4 @@
-[![MasterHead](./github-header-image.png)]
+![MasterHead](./Header-image.png)
 <h1 align="center">Hi 👋, I'm Sahil Hussain</h1>
 <h3 align="center">A passionate Web developer!!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
